@@ -1,2 +1,9 @@
-# data-analysing
-A growing collection of projects demonstrating my skills in data analysis, storytelling with data, and machine learning fundamentals. Each project lives in its own folder with a README describing the work.
+# Data Portfolio
+
+This repository contains my data analysis and machine learning projects.
+
+Each project starts as a Jupyter Notebook inside the `notebooks/` folder.  
+As projects grow, they will include data, reusable code (`src/`), and reports.
+
+Current projects:
+- Customer Turnover (Churn) Analysis
