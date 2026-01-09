@@ -7,3 +7,4 @@ As projects grow, they will include data, reusable code (`src/`), and reports.
 
 Current projects:
 - Customer Turnover (Churn) Analysis
+- IMDB Reviews Sentiment Analysis
